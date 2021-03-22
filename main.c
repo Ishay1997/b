@@ -2,6 +2,7 @@
 #include "myMath.h"
 int main()
 {
+////////////////////////
 	double x;
 	int number_for_e;
   	printf("please insert a double number: ");
